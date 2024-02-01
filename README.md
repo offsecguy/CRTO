@@ -17,4 +17,5 @@ or
   sc config svc_test binPath= "C:\Windows\Tasks\YourServiceName.exe"
   sc start svc_test
   net localgroup administrators
+  logoff
 ```
